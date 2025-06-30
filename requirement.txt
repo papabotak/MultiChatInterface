@@ -1,0 +1,8 @@
+requests
+python-dotenv
+openai
+anthropic
+gradio
+ollama
+ipython
+langchain
